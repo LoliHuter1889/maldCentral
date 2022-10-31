@@ -1,6 +1,6 @@
 # maldCentral
 
-
+Pls remember to comment out the 2B Ascii art. DO NOT REMOVE IT
 
 
 0.60 is latest. /n Use the 
